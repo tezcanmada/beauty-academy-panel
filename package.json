@@ -25,7 +25,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.469.0",
-    "tailwind-merge": "^2.7.0",
+    "tailwind-merge": "latest",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
